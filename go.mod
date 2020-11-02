@@ -1,4 +1,4 @@
-module projtrainning1/db_libs
+module github.com/QuyVoKMA/db_libs
 
 go 1.15
 
